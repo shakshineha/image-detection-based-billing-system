@@ -14,11 +14,11 @@ recognize them and add the price to the billing system accordingly.
 
 For this project to install them use the following pip commands:
 
-pip install tensorflow-gpu==1.15.2
-pip install opencv-python
-pip3 install keras
-pip3 install imageai --upgrade
-pip install -U Flask
+- pip install tensorflow-gpu==1.15.2
+- pip install opencv-python
+- pip3 install keras
+- pip3 install imageai --upgrade
+- pip install -U Flask
 
 Incase imageAI does not install directly, the following method can be used.
 pip install https://github.com/OlafenwaMoses/ImageAI/releases/download/2.0.2/imageai-2.0.2-py3-none-any.whl
