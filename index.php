@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Kirana ML Model Software For TCS Competition</title>
+<title>Image Detection based billing system</title>
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css">
 <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
@@ -36,14 +36,14 @@ div{
 <div class="pos-f-t" style="color:white;">
 <div class="collapse" id="navbarToggleExternalContent" style="background: black;">
 <div class="p-4">
-<h4 class="text-white">Kirana Product Billing (Software Developed For <b>TCS Inframind</b> Competition)</h4>
+<h4 class="text-white">Kirana Product Billing </h4>
 </div>
 </div>
 <nav class="navbar navbar-dark bg-dark">
 <button onclick="topFunction();" class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation">
 <span style="display: inline-block;" class="navbar-toggler-icon"></span>
 </button>
-<h4 style="display: inline-block; color: white; margin: 5px;">Kirana Product Billing (Developed By Team <b>ScifiDevs</b>)</h4>
+<h4 style="display: inline-block; color: white; margin: 5px;">Kirana Product Billing </h4>
 </nav>
 </div>
 </header>
