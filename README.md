@@ -1,4 +1,4 @@
-## Billing using image detection
+# Billing using image detection
 
 This paper aims at putting forward the idea of image-based billing system. In many C-shops it
 is often seen that billing of products is done manually. Also, establishing billing systems like Optical code
@@ -10,7 +10,7 @@ product, one of small size( of price x) and the other of larger size( of price 2
 recognize them and add the price to the billing system accordingly.
 
 
-# Libraries to be installed:
+## Libraries to be installed:
 
 For this project to install them use the following pip commands:
 
@@ -26,7 +26,7 @@ pip install https://github.com/OlafenwaMoses/ImageAI/releases/download/2.0.2/ima
 For full reference:
 https://medium.com/@guymodscientist/image-prediction-with-10-lines-of-code-3266f4039c7a
 
-# This project has been trained on a model named model90.h5. The model can be downloaded from this link
+### This project has been trained on a model named model90.h5. The model can be downloaded from this link
 
 https://drive.google.com/drive/folders/1ZexrvUSFj9U35EDm5jf0Jy4wtYobdmd2?usp=sharing 
 
